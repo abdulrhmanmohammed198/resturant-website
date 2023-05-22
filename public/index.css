@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,400;1,500&display=swap');
+.color-body{
+background-color: #f8f8f8;
+height: 100vh;
+width: auto;
+overflow-x: hidden;
+}
+
+.font {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.title{
+color: #224f61;
+font-family: 'JetBrains Mono', monospace;
+font-size: 30px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 64px;
+}
+
+.underline {
+background: #b45b35;
+height: 1px;
+width: 200px;
+border-radius: 10px;
+border: 2px solid #b45b35;
+}
+
+.btn2 {
+color: #b45b35;
+font-family: 'JetBrains Mono', monospace;
+font-size: 18px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 24px;
+border-radius: 11px;
+border: 1px solid #b45b35;
+}
+
+.btn2:hover{
+color: white;
+font-family: 'JetBrains Mono', monospace;
+font-size: 18px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 24px;
+border-radius: 11px;
+border: 1px solid;
+background-color: #b45b35;
+}
+
+.img-item{
+height: 200 !important;
+width: 252px !important;
+border-radius: 5px;
+}
+
+.item-description{
+color: #8c8c8c;
+font-family: 'JetBrains Mono', monospace;
+font-size: 16px;
+letter-spacing: 0;
+line-height:20px;
+}
+
+.item-title{
+color: #555555;
+font-family: 'JetBrains Mono', monospace;
+font-size: 16px;
+font-weight: bold;
+letter-spacing: 0;
+line-height:20px;
+}
+
+.item-O{
+    color: #b45b35;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height:20px;
+}
+
+.brand-color{
+color: #b45b35;
+}
+ .logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+ }
+ 
+ .fade{
+    background-color: rgba(0, 0, 0, 0.185) !important;
+ }
+ .modal-content{
+    box-shadow: 5px 5px 5px #00000041; 
+ }
+ .modal-btn{
+    margin-top: 15px !important;
+ }
+ 
+ .modal-img{
+     margin-bottom: 15px !important;
+     width: 100%;
+ }
+ 
+ .info{
+ color: #555555;
+font-family: 'JetBrains Mono', monospace;
+font-weight: 400;
+font-size: 16px;
+letter-spacing: 0;
+line-height:20px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
